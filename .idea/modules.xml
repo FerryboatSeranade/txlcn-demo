@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/account-api/account-api.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/account-api/account-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/bank-consumer/bank-consumer.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/bank-consumer/bank-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/bank-provider/bank-provider.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/bank-provider/bank-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/tx-manager/tx-manager.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/tx-manager/tx-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-common/txlcn-demo-common.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-common/txlcn-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-dubbo-service-a/txlcn-demo-dubbo-service-a.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-dubbo-service-a/txlcn-demo-dubbo-service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-dubbo-service-b/txlcn-demo-dubbo-service-b.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-dubbo-service-b/txlcn-demo-dubbo-service-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-dubbo-service-c/txlcn-demo-dubbo-service-c.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-dubbo-service-c/txlcn-demo-dubbo-service-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/txlcn-demo-master.iml" filepath="$PROJECT_DIR$/.idea/txlcn-demo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-spring-service-a/txlcn-demo-spring-service-a.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-spring-service-a/txlcn-demo-spring-service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-spring-service-b/txlcn-demo-spring-service-b.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-spring-service-b/txlcn-demo-spring-service-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-spring-service-c/txlcn-demo-spring-service-c.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-spring-service-c/txlcn-demo-spring-service-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-tm/txlcn-demo-tm.iml" filepath="$PROJECT_DIR$/txlcn-demo-master/txlcn-demo-tm/txlcn-demo-tm.iml" />
+    </modules>
+  </component>
+</project>
